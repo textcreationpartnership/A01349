@@ -37,7 +37,6 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
-IOANNIS PALSGRAVI LONDONIENSIS, ECPHRASIS ANGLICA IN COMOEDIAM ACOIASTI.¶ THE Comedye of Acolaſtus 
 1. ❧TO THE MOSTE EXCELLENT PRINCE AND OVR MOST REDOVB ted ſouerayne lorde, HENRY the. VIII. by the grace of god kynge of Englande and of Fraunce, defender of the faythe, lorde of Irelande, and ſupreme heed in erth immediately vnder Chriſte, of the Churche of Englande, his moſte humble and moſt obeyſaunt Chapleyn, Iohn Palſgraue, bacheler of diuinitie, deſyreth perfecte felicitie and proſperous ſucceſſe in all his noble affayres.
 
 1. A declaration vvhat the names vſed by the auctour in this Comedy, do ſignifye.
@@ -266,32 +265,28 @@ There are 1604 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|9||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|9||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -301,25 +296,22 @@ There are 1604 **ommitted** fragments!
 |1.|__abbr__|4||
 |2.|__am__|132||
 |3.|__argument__|1||
-|4.|__back__|1||
-|5.|__body__|1||
-|6.|__desc__|1604||
-|7.|__div__|65| @__type__ (65) : title_page (1), dedication (1), explanation_of_names (1), prologue (3), play (1), act (7), introduction (1), scene (44), section (3), observation (1), epilogue (1), license (1)  •  @__n__ (26) : 1 (2), 2 (5), 3 (6), 4 (6), 5 (5), 6 (1), 7 (1)|
-|8.|__ex__|132||
-|9.|__expan__|132||
-|10.|__front__|1||
-|11.|__g__|2976| @__ref__ (2976) : char:EOLhyphen (1691), char:leaf (2), char:EOLunhyphen (227), char:cmbAbbrStroke (902), char:abque (95), char:abqui (33), char:punc (22), char:abquam (4)|
-|12.|__gap__|1604| @__reason__ (1604) : illegible (1587), foreign (17)  •  @__resp__ (1587) : #APEX (1587)  •  @__extent__ (1587) : 1 letter (603), 1 word (432), 2 letters (130), 1 span (272), 3 letters (21), 1 line (123), 4 letters (6)|
-|13.|__head__|67||
-|14.|__hi__|224| @__rend__ (32) : sup (32)|
-|15.|__item__|122||
-|16.|__l__|1689||
-|17.|__lg__|35||
-|18.|__list__|51||
-|19.|__note__|519| @__place__ (519) : margin (519)|
-|20.|__p__|609||
-|21.|__pb__|210| @__facs__ (210) : tcp:5969:1 (2), tcp:5969:2 (2), tcp:5969:3 (2), tcp:5969:4 (2), tcp:5969:5 (2), tcp:5969:6 (2), tcp:5969:7 (2), tcp:5969:8 (2), tcp:5969:9 (2), tcp:5969:10 (2), tcp:5969:11 (2), tcp:5969:12 (2), tcp:5969:13 (2), tcp:5969:14 (2), tcp:5969:15 (2), tcp:5969:16 (2), tcp:5969:17 (2), tcp:5969:18 (2), tcp:5969:19 (2), tcp:5969:20 (2), tcp:5969:21 (2), tcp:5969:22 (2), tcp:5969:23 (2), tcp:5969:24 (2), tcp:5969:25 (2), tcp:5969:26 (2), tcp:5969:27 (2), tcp:5969:28 (2), tcp:5969:29 (2), tcp:5969:30 (2), tcp:5969:31 (2), tcp:5969:32 (2), tcp:5969:33 (2), tcp:5969:34 (2), tcp:5969:35 (2), tcp:5969:36 (2), tcp:5969:37 (2), tcp:5969:38 (2), tcp:5969:39 (2), tcp:5969:40 (2), tcp:5969:41 (2), tcp:5969:42 (2), tcp:5969:43 (2), tcp:5969:44 (2), tcp:5969:45 (2), tcp:5969:46 (2), tcp:5969:47 (2), tcp:5969:48 (2), tcp:5969:49 (2), tcp:5969:50 (2), tcp:5969:51 (2), tcp:5969:52 (2), tcp:5969:53 (2), tcp:5969:54 (2), tcp:5969:55 (2), tcp:5969:56 (2), tcp:5969:57 (2), tcp:5969:58 (2), tcp:5969:59 (2), tcp:5969:60 (2), tcp:5969:61 (2), tcp:5969:62 (2), tcp:5969:63 (2), tcp:5969:64 (2), tcp:5969:65 (2), tcp:5969:66 (2), tcp:5969:67 (2), tcp:5969:68 (2), tcp:5969:69 (2), tcp:5969:70 (2), tcp:5969:71 (2), tcp:5969:72 (2), tcp:5969:73 (2), tcp:5969:74 (2), tcp:5969:75 (2), tcp:5969:76 (2), tcp:5969:77 (2), tcp:5969:78 (2), tcp:5969:79 (2), tcp:5969:80 (2), tcp:5969:81 (2), tcp:5969:82 (2), tcp:5969:83 (2), tcp:5969:84 (2), tcp:5969:85 (2), tcp:5969:86 (2), tcp:5969:87 (2), tcp:5969:88 (2), tcp:5969:89 (2), tcp:5969:90 (2), tcp:5969:91 (2), tcp:5969:92 (2), tcp:5969:93 (2), tcp:5969:94 (2), tcp:5969:95 (2), tcp:5969:96 (2), tcp:5969:97 (2), tcp:5969:98 (2), tcp:5969:99 (2), tcp:5969:100 (2), tcp:5969:101 (2), tcp:5969:102 (2), tcp:5969:103 (2), tcp:5969:104 (2), tcp:5969:105 (2)  •  @__rendition__ (2) : simple:additions (2)|
-|22.|__q__|4||
-|23.|__seg__|16| @__rend__ (16) : decorInit (16)|
-|24.|__sp__|1113||
-|25.|__speaker__|1113||
+|4.|__desc__|1604||
+|5.|__div__|65| @__type__ (65) : title_page (1), dedication (1), explanation_of_names (1), prologue (3), play (1), act (7), introduction (1), scene (44), section (3), observation (1), epilogue (1), license (1)  •  @__n__ (26) : 1 (2), 2 (5), 3 (6), 4 (6), 5 (5), 6 (1), 7 (1)|
+|6.|__ex__|132||
+|7.|__expan__|132||
+|8.|__g__|2976| @__ref__ (2976) : char:EOLhyphen (1691), char:leaf (2), char:EOLunhyphen (227), char:cmbAbbrStroke (902), char:abque (95), char:abqui (33), char:punc (22), char:abquam (4)|
+|9.|__gap__|1604| @__reason__ (1604) : illegible (1587), foreign (17)  •  @__resp__ (1587) : #APEX (1587)  •  @__extent__ (1587) : 1 letter (603), 1 word (432), 2 letters (130), 1 span (272), 3 letters (21), 1 line (123), 4 letters (6)|
+|10.|__head__|67||
+|11.|__hi__|224| @__rend__ (32) : sup (32)|
+|12.|__item__|122||
+|13.|__l__|1689||
+|14.|__lg__|35||
+|15.|__list__|51||
+|16.|__note__|519| @__place__ (519) : margin (519)|
+|17.|__p__|609||
+|18.|__pb__|210| @__facs__ (210) : tcp:5969:1 (2), tcp:5969:2 (2), tcp:5969:3 (2), tcp:5969:4 (2), tcp:5969:5 (2), tcp:5969:6 (2), tcp:5969:7 (2), tcp:5969:8 (2), tcp:5969:9 (2), tcp:5969:10 (2), tcp:5969:11 (2), tcp:5969:12 (2), tcp:5969:13 (2), tcp:5969:14 (2), tcp:5969:15 (2), tcp:5969:16 (2), tcp:5969:17 (2), tcp:5969:18 (2), tcp:5969:19 (2), tcp:5969:20 (2), tcp:5969:21 (2), tcp:5969:22 (2), tcp:5969:23 (2), tcp:5969:24 (2), tcp:5969:25 (2), tcp:5969:26 (2), tcp:5969:27 (2), tcp:5969:28 (2), tcp:5969:29 (2), tcp:5969:30 (2), tcp:5969:31 (2), tcp:5969:32 (2), tcp:5969:33 (2), tcp:5969:34 (2), tcp:5969:35 (2), tcp:5969:36 (2), tcp:5969:37 (2), tcp:5969:38 (2), tcp:5969:39 (2), tcp:5969:40 (2), tcp:5969:41 (2), tcp:5969:42 (2), tcp:5969:43 (2), tcp:5969:44 (2), tcp:5969:45 (2), tcp:5969:46 (2), tcp:5969:47 (2), tcp:5969:48 (2), tcp:5969:49 (2), tcp:5969:50 (2), tcp:5969:51 (2), tcp:5969:52 (2), tcp:5969:53 (2), tcp:5969:54 (2), tcp:5969:55 (2), tcp:5969:56 (2), tcp:5969:57 (2), tcp:5969:58 (2), tcp:5969:59 (2), tcp:5969:60 (2), tcp:5969:61 (2), tcp:5969:62 (2), tcp:5969:63 (2), tcp:5969:64 (2), tcp:5969:65 (2), tcp:5969:66 (2), tcp:5969:67 (2), tcp:5969:68 (2), tcp:5969:69 (2), tcp:5969:70 (2), tcp:5969:71 (2), tcp:5969:72 (2), tcp:5969:73 (2), tcp:5969:74 (2), tcp:5969:75 (2), tcp:5969:76 (2), tcp:5969:77 (2), tcp:5969:78 (2), tcp:5969:79 (2), tcp:5969:80 (2), tcp:5969:81 (2), tcp:5969:82 (2), tcp:5969:83 (2), tcp:5969:84 (2), tcp:5969:85 (2), tcp:5969:86 (2), tcp:5969:87 (2), tcp:5969:88 (2), tcp:5969:89 (2), tcp:5969:90 (2), tcp:5969:91 (2), tcp:5969:92 (2), tcp:5969:93 (2), tcp:5969:94 (2), tcp:5969:95 (2), tcp:5969:96 (2), tcp:5969:97 (2), tcp:5969:98 (2), tcp:5969:99 (2), tcp:5969:100 (2), tcp:5969:101 (2), tcp:5969:102 (2), tcp:5969:103 (2), tcp:5969:104 (2), tcp:5969:105 (2)  •  @__rendition__ (2) : simple:additions (2)|
+|19.|__q__|4||
+|20.|__seg__|16| @__rend__ (16) : decorInit (16)|
+|21.|__sp__|1113||
+|22.|__speaker__|1113||
